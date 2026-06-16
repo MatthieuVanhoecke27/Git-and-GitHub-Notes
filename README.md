@@ -62,5 +62,4 @@
 ## 👤 Auteur
 
 **Matthieu Vanhoecke**
-- GitHub : [@your-username](https://github.com/your-username)
-- LinkedIn : [your-linkedin](https://linkedin.com/in/your-linkedin)
+
